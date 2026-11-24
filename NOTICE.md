@@ -2,7 +2,7 @@
 
 **PBR — Geometric Market Structure Framework**
 
-- **Original PBR methodology and initial graphical form:** رامین کحالزاده.
+- **Original PBR methodology and initial graphical form:** Ramin Kahhalzadeh.
 - **Mathematical formalization, original methodological extensions, software architecture and instrument development:** Ali Alavi.
 
 This high-level attribution acknowledges distinct creative contributions. It is not a determination of legal title, ownership percentages, revenue allocation, or licensing authority. All applicable rights are reserved by their respective rights holders. The underlying proprietary methods and detailed contribution records are outside the scope of this public presentation.
