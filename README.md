@@ -51,7 +51,7 @@ These are broad research directions, not a specification of the underlying metho
 
 # Origins & Contributions
 
-The original PBR methodology and its initial graphical form were developed by **رامین کحالزاده**. Subsequent mathematical formalization, original methodological extensions, software architecture and instrument development are attributed to **[Ali Alavi](https://github.com/alaviarts)**.
+The original PBR methodology and its initial graphical form were developed by **Ramin Kahhalzadeh**. Subsequent mathematical formalization, original methodological extensions, software architecture and instrument development are attributed to **[Ali Alavi](https://github.com/alaviarts)**.
 
 The project recognizes the distinct intellectual contributions of both individuals. This acknowledgement records creative provenance; it does not establish ownership shares, licensing authority or commercial terms.
 
@@ -86,7 +86,7 @@ This repository is the public presentation of PBR. It is not an open-source dist
 
 **PBR**
 
-Original methodology · رامین کحالزاده
+Original methodology · Ramin Kahhalzadeh
 
 Mathematical formalization, methodological extensions &amp; software architecture · [Ali Alavi](https://github.com/alaviarts)
 
